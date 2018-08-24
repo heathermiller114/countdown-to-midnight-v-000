@@ -1,5 +1,5 @@
 #write your code here
-timer = 60
+
 def countdown(timer)
   while timer >= 0
     puts "#{timer} SECOND(S)!"
